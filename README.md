@@ -257,13 +257,10 @@ Potential improvements include:
 - Privacy-preserving biometric matching
 
 ---
+---
 
-## License
+## Disclaimer
 
-Add the appropriate license for your project here, for example:
-
-```text
-MIT License
-```
-
-If this repository is intended for academic submission, you may instead include your institution's required project or academic-use notice.
+> This project is developed for educational, academic, and demonstration purposes. It demonstrates the implementation of biometric voter authentication, facial recognition, database integrity, and electronic ballot management using Python, Streamlit, DeepFace, and SQLite.
+>
+> This software is **not intended for use in real-world elections or official electoral processes**. Production deployment would require extensive security auditing, biometric validation, privacy protections, accessibility measures, cryptographic election protocols, legal approval, regulatory compliance, and independent testing.
